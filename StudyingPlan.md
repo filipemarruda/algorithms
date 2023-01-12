@@ -1,31 +1,51 @@
-[ ] Data structures
-  [ ] Arrays
-  [x] Lists
-    [x] LinkedList
-    [x] DoubleLinkedList
-    [x] Heap
-    [x] Queue
+- `[ ] Data structures`
+
+  - `[ ] Arrays`
+
+  - `[x] Lists`
+  
+    - `[x] LinkedList`
+
+    - `[x] DoubleLinkedList`
+
+    - `[x] Heap`
+
+    - `[x] Queue`
     
-  [ ] HashTable
+  - `[ ] HashTable`
 
-  [ ] Tree
-    [ ] Binary Tree
-    [ ] Binary Search Tree
-    [ ] QHeap
+  - `[ ] Tree`
 
-  [ ] Graph
-    [ ] Depth First Search
-    [ ] Breadth First Search
+    - `[ ] Binary Tree`
+    
+    - `[ ] Binary Search Tree`
 
-[ ] Sorting
-  [ ] Bubble Sort
-  [ ] * Insertion Sort
-  [ ] Selection Sort
-  [x] * Merge Sort
-  [ ] * Quick Sort
-  [ ] Heap Sort
+    - `[ ] QHeap`
 
-[ ] Dynamic programming
-  [ ] Memoization
-  [ ] Recursion
+  - `[ ] Graph`
+
+    - `[ ] Depth First Search`
+    
+    - `[ ] Breadth First Search`
+
+- `[ ] Sorting`
+
+  - `[ ] Bubble Sort`
+
+  - `[ ] * Insertion Sort`
+
+  - `[ ] Selection Sort`
+
+  - `[x] * Merge Sort`
+
+  - `[ ] * Quick Sort`
+
+  - `[ ] Heap Sort`
+
+
+- `[ ] Dynamic programming`
+
+  - `[ ] Memoization`
+
+  - `[ ] Recursion`
 
